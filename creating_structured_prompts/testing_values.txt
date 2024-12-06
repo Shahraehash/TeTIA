@@ -1,0 +1,200 @@
+Pretend to scream and crying is occurring, and an adult male begins to speak : <pretend screaming& start>@<crying& mid>@<adult male speaks& end>
+Ducks quacking as roosters crow and chickens cluck while water trickles : <ducks quacking& all>@<roosters crowing& all>@<chickens clucking& all>@<water trickling& all>
+A vehicle door opening as a crow caws and birds chirp while vehicles drive by in the background : <vehicle door opening& start>@<crow caws& mid>@<birds chirp& mid>@<vehicles drive by& all>
+Several ducks quack and chirp as men speak and wind blows : <ducks quack and chirp& all>@<men speak& all>@<wind blows& all>
+A series of electronic beeps followed by static : <electronic beeps& start>@<static& end>
+A male speech and wind and then birds chirping : <male speech& all>@<wind& mid>@<birds chirping& end>
+A metal clank followed by motor vibrating and rumbling : <metal clank& start>@<motor vibrating& mid>@<rumbling& end>
+A drone whirring followed by a crashing sound : <drone whirring& all>@<crashing sound& end>
+Speaking and an engine running : <speaking& all>@<engine running& all>
+An engine hums as it idles : <engine hums as it idles& all>
+A bell is ringing loudly and quickly : <bell ringing loudly and quickly& all>
+A man talking as water splashes : <man talking& all>@<water splashes& all>
+A helicopter engine working : <helicopter engine working& all>
+A man talking as a helicopter flies by : <male voice talking& all>@<helicopter flies by& all>
+Water running from a flushed toilet : <water running from a flushed toilet& all>
+A tractor engine driving by followed by a car horn honking and wind blowing on a microphone : <tractor engine driving by& all>@<car horn honking& mid>@<wind blowing on microphone& end>
+Motorboat engine screams as it accelerates : <motorboat engine screams& all>
+Burping and then laughing with continuous burping : <burping& start>@<laughing& mid>@<continuous burping& all>
+The wind is blowing, an adult male speaks via an electronic device, and a click occurs : <wind blowing& all>@<adult male speaks via electronic device& all>@<click& end>
+An engine revving and then tires squealing : <engine revving& start>@<tires squealing& mid>
+Whistling with wind blowing : <whistling& all>@<wind blowing& all>
+A large truck driving by as an emergency siren wails and truck horn honks : <emergency siren wails& start>@<large truck driving by& all>@<truck horn honks& end>
+A bell is ringing : <bell ringing& all>
+A vehicle horn honking followed by a large truck engine accelerating while wind blows lightly into a microphone : <vehicle horn honking& start>@<large truck engine accelerating& mid>@<wind blows lightly into microphone& end>
+A power tool vibrating quick followed by a man speaking and some bangs : <power tool vibrating quick& all>@<man speaking& mid>@<bangs& end>
+Girl speaks and crunches plastic wrapping : <girl speaks& all>@<crunches plastic wrapping& all>
+Humming and vibrating with a man and children speaking and laughing : <man and children speaking and laughing& all>@<humming and vibrating& start>
+A man yelling followed by an infant crying then a woman shouting as a crowd of people talk and laugh : <man yelling& start>@<infant crying& mid>@<woman shouting& mid>@<crowd talking and laughing& all>
+Digital beeps repeating then a person speaks : <digital beeps repeating& start>@<person speaks& end>
+Continuous white noise, rustling and wind : <continuous white noise& all>@<rustling& all>@<wind& all>
+Some clicking followed by a sneeze and a man laughing : <clicking& start>@<sneeze& mid>@<man laughing& end>
+A motor is revving and changing gears : <motor revving and changing gears& all>
+A woman speaking followed by a porcelain plate clanking as food and oil sizzles : <woman speaking& all>@<porcelain plate clanking& mid>@<food and oil sizzles& end>
+Birds are squawking, and ducks are quacking : <birds squawking& all>@<ducks quacking& all>
+Low ticktock sounds followed by objects moving : <low ticktock sounds& all>@<objects moving& all>
+A man speaks followed by vibrations of a power tool : <male voice speaks& all>@<vibrations of a power tool& start>
+A man speaking as a crowd of people laugh and applaud : <man speaking& all>@<crowd laughs& mid>@<crowd applauds& end>
+People are talking along with knock sounds : <people talking& all>@<knock sounds& mid>
+A large explosion and a heartbeat, a person speaks : <large explosion& start>@<heartbeat& mid>@<person speaks& end>
+An engine running and wind with various speech in the background : <engine running& all>@<wind& all>@<various speech& all>
+A man speaks and then whistles : <man speaks& all>@<man whistles& end>
+A car engine clicks and whines as it tries to start : <car engine clicks and whines& all>
+A person briefly talks followed quickly by toilet flushing and another voice from another person : <person briefly talks& start>@<toilet flushing& mid>@<another voice from another person& end>
+A kid crying as a man and a woman talk followed by a car door opening then closing : <kid crying& start>@<man and woman talk& all>@<car door opening& mid>@<car door closing& end>
+An infant crying followed by a man laughing : <infant crying& start>@<man laughing& end>
+Music and a man speaking followed by bleeps and someone singing : <music& all>@<man speaking& all>@<bleeps& mid>@<someone singing& end>
+Whistling as a man speaks : <man speaks& all>@<whistling& start>
+A man talking followed by a goat baaing as wind lightly blows into a microphone followed by a crow cawing in the distance : <man talking& all>@<goat baaing& mid>@<wind lightly blows into microphone& mid>@<crow cawing in the distance& end>
+A group of people laughing followed by a man talking : <group of people laughing& all>@<man talking& end>
+A woman singing then choking followed by birds chirping : <woman singing& start>@<choking& mid>@<birds chirping& end>
+An engine rumbles loudly, then an air horn honk three times : <engine rumbles loudly& start>@<air horn honks three times& mid>@<engine continues to rumble& end>
+A vehicle engine revving as a crowd of people talk : <vehicle engine revving& all>@<crowd talking& all>
+Food and oil sizzling as a woman is talking followed by dinner plates clanking : <food and oil sizzling& all>@<woman talking& start>@<dinner plates clanking& end>
+A dog barking as a man is talking while birds chirp and wind blows into a microphone : <man talking& all>@<dog barking& start>@<birds chirp& mid>@<wind blows& end>
+Humming and vibrating from a power tool : <humming and vibrating from a power tool& all>
+A herd of sheep baaing : <herd of sheep baaing& all>
+A rocket flies by followed by a loud explosion and fire crackling as a truck engine runs idle : <rocket flies by& start>@<loud explosion& mid>@<fire crackling& mid>@<truck engine runs idle& end>
+Motorcycle engine running : <motorcycle engine running& all>
+A woman talks and a baby whispers : <woman talks& all>@<baby whispers& end>
+A cat meows and a woman speaks : <cat meows& start>@<woman speaks& mid>
+There is a mature male talking to some animals : <mature male talking to some animals& all>@<animals making sounds& all>
+A man speaks with others speaking in the distance followed by a girl speaking and others laughing : <male voice speaking& all>@<others speaking in the distance& mid>@<girl speaking& mid>@<others laughing& end>
+Metal scrapping against a wooden surface followed by sand scrapping then more metal scrapping against wood : <metal scrapping against wood& start>@<sand scrapping& mid>@<more metal scrapping against wood& end>
+Several birds tweeting loudly followed by insects chirping : <birds tweeting loudly& all>@<insects chirping& end>
+Wind blowing followed by people speaking then a loud burst of thunder : <wind blowing& start>@<people speaking& mid>@<loud burst of thunder& end>
+A man speaking as a stream of water splashes and flows while music faintly plays in the distance : <man speaking& all>@<water splashes& all>@<music faintly plays& all>
+Duck quacking repeatedly : <duck quacking repeatedly& all>
+Thunder and a gentle rain : <thunder& all>@<gentle rain& all>
+A person talking which later imitates a couple of meow sounds : <person talking& all>@<imitates meow sounds& mid>
+A series of computer mouse clicks followed by a kid crying : <computer mouse clicks& all>@<kid crying& end>
+Fire igniting followed by an electronic beep then footsteps running on concrete as vehicle engines run idle and horns honk in the background : <fire igniting& start>@<electronic beep& mid>@<footsteps running on concrete& mid>@<vehicle engines run idle& all>@<horns honk& all>
+A man speaks followed by popping noise and laughter : <man speaks& all>@<popping noise& mid>@<laughter& end>
+Blowing of a horn as a train passes : <blowing of a horn& start>@<train passes& all>
+A clock ticks with breathing in the background : <clock ticks& all>@<breathing& all>
+A helicopter flying followed by wind heavily blowing into a microphone : <helicopter flying& start>@<wind heavily blowing into microphone& end>
+A person snoring with another man speaking : <man speaking& all>@<person snoring& start>
+A girl burping then laughing followed by a group of girls laughing and talking : <girl burps& start>@<girl laughs& mid>@<group of girls laughing and talking& end>
+Rain is falling continuously : <rain falling continuously& all>
+Rain falling as a motor engine runs idle and a man talks : <rain falling& all>@<motor engine runs idle& all>@<man talks& all>
+A man talking followed by a goat baaing then a metal gate sliding while ducks quack and wind blows into a microphone : <man talking& all>@<goat baaing& mid>@<metal gate sliding& mid>@<ducks quack& mid>@<wind blows into microphone& end>
+An engine running : <engine running& all>
+A man is speaking as paper is crumpling : <male voice talking& all>@<paper crumpling& all>
+A person is sawing wood and music is playing in the background : <person sawing wood& all>@<music playing in the background& all>
+A woman and a man talking as another man talks softly and papers shuffle in the background : <woman and man talking& all>@<another man talks softly& mid>@<papers shuffle in the background& end>
+Humming from an engine followed by loud honks of a horn : <humming from an engine& all>@<loud honks of a horn& start>
+An engine running and helicopter propellers spinning : <engine running& all>@<helicopter propellers spinning& all>
+Male speech and then whistling : <male speech& all>@<whistling& end>
+Applause and speech followed by a loud high pitched bell and more applause and speech : <applause& start>@<speech& mid>@<loud high pitched bell& mid>@<more applause& mid>@<more speech& end>
+Water running with a main is speaking : <water running& all>@<man speaking& all>
+Males speaking and then a clock ticks twice : <males speaking& all>@<clock ticks& mid>
+A series of compressed air spraying as a motor hums in the background : <compressed air spraying& all>@<motor hums& all>
+Pigeons cooing as air lightly hisses in the background followed by a camera muffling : <air lightly hisses in the background& all>@<pigeons cooing& start>@<camera muffling& end>
+Ocean waves crashing in the distance as young girl talks followed by a young man talking while a group of children laughs in the background and wind blows into a microphone : <ocean waves crashing& all>@<young girl talks& start>@<young man talks& mid>@<children laugh& mid>@<wind blows into microphone& end>
+Water is trickling, and a man talks : <water trickling& all>@<man talks& all>
+Fly buzzing followed by frog swallowing it and then a croak : <fly buzzing& start>@<frog swallowing& mid>@<frog croaks& end>
+Ocean waves crashing as a man talks in the distance and wind heavily blows into a microphone : <ocean waves crashing& all>@<man talks in the distance& mid>@<wind heavily blows into a microphone& end>
+Sustained industrial engine noise : <industrial engine noise& all>
+A woman talking back and forth with a child who is crying : <woman talking& all>@<child crying& all>
+Scraping and speech followed by people laughing : <scraping sounds& start>@<speech& mid>@<people laughing& end>
+Helicopter blades spinning : <helicopter blades spinning& all>
+Repeated gunfire and screaming in the background : <repeated gunfire& all>@<screaming& all>
+Several birds chirp with some hissing : <birds chirp& all>@<hissing& mid>
+Humming from a motor with loud dry cracking : <humming from a motor& all>@<loud dry cracking& all>
+Water trickles, splashes and gurgles, slow at first and then faster, and an adult male is speaking : <water trickles, splashes and gurgles& start>@<adult male speaking& all>
+Hissing together with an engine chugging : <hissing& all>@<engine chugging& all>
+A train sounds horn while traveling on train track : <train sounds horn& all>@<traveling on train track& all>
+Constant rattling noise and sharp vibrations : <constant rattling noise& all>@<sharp vibrations& all>
+Food is frying, and a woman talks : <food frying& all>@<woman talks& all>
+A man talking as a motorbike engine runs and accelerates : <male voice talking& all>@<motorbike engine runs& start>@<motorbike accelerates& mid>
+A man speaking followed by a woman talking then plastic clacking as footsteps walk on grass and a rooster crows in the distance : <man speaking& start>@<woman talking& mid>@<plastic clacking& mid>@<footsteps on grass& mid>@<rooster crows in the distance& end>
+A man talking as a door slams shut followed by a door creaking : <man talking& all>@<door slams shut& mid>@<door creaking& end>
+Water running continuously : <water running continuously& all>
+A man talking followed by a series of belches : <man talking& all>@<series of belches& start>
+A crowd murmurs as a siren blares and then stops at a distance : <crowd murmurs& all>@<siren blares& start>@<siren stops& end>
+Wind blowing and water splashing : <wind blowing& all>@<water splashing& all>
+A man is speaking followed by a child speaking and then laughter : <male voice speaking& all>@<child speaking& mid>@<laughter& end>
+An aircraft motor is running and whirring is present, helicopter rotors slap rhythmically, and an adult male speaks in the background : <aircraft motor running& all>@<helicopter rotors slap rhythmically& all>@<adult male speaks& all>
+A rooster clucking followed by a dog whimpering then a man talking and a dog barking : <rooster clucking& start>@<dog whimpering& mid>@<man talking& mid>@<dog barking& end>
+Vehicles driving by as a muffled engine runs while a man speaks then another man speaking in the distance : <vehicles driving by& all>@<muffled engine runs& all>@<man speaks& mid>@<another man speaking in the distance& end>
+Spray and a high pitch tone : <spray sound& all>@<high pitch tone& all>
+Several bursts and explosions with grunting and growling : <bursts and explosions& all>@<grunting and growling& all>
+A man is giving a speech while the crowd is chanting and clapping in the background : <man giving a speech& all>@<crowd chanting& mid>@<crowd clapping& mid>
+Gunshots fire, an adult male speaks, footfalls and clicking occur as other adult males speak, gunshots fire again, an adult male speaks, and a dog growls : <gunshots fire& start>@<adult male speaks& mid>@<footfalls and clicking occur& mid>@<other adult males speak& mid>@<gunshots fire again& mid>@<adult male speaks& mid>@<dog growls& end>
+Screaming, wind and an engine running, and laughing : <Screaming& all>@<wind& all>@<engine running& all>@<laughing& all>
+A woman talking as a baby talks followed by plastic thumping : <woman talking& all>@<baby talks& start>@<plastic thumping& mid>
+Loud wind noise followed by a car accelerating fast : <loud wind noise& start>@<car accelerating fast& end>
+An engine booms and hums with constant rattling : <engine booms& all>@<engine hums& all>@<constant rattling& all>
+A man talking as a kid yells followed by an aircraft flying in the distance as wind blows into a microphone : <man talking& all>@<kid yells& start>@<aircraft flying& mid>@<wind blows into microphone& end>
+A domestic pet is making noises and a baby cries : <domestic pet making noises& all>@<baby cries& start>
+A child yelling as a young boy talks during several slaps on a hard surface : <child yelling& start>@<young boy talks& mid>@<slaps on hard surface& all>
+Loud vibrating followed by revving : <loud vibrating& start>@<revving& end>
+A person whistling then a man speaking with plastic tapping : <person whistling& start>@<man speaking& mid>@<plastic tapping& end>
+Humming from an engine slowing down then speeding up : <humming from an engine slowing down& start>@<humming from an engine speeding up& end>
+A vehicle engine running smoothly : <vehicle engine running smoothly& all>
+Traffic hums and beeps with revving engines and a man speaking nearby : <traffic hums and beeps& all>@<revving engines& mid>@<man speaking nearby& end>
+A scratching of surface sound followed by men talking and snickering : <scratching of surface sound& start>@<men talking& mid>@<snickering& end>
+A man talks over a clicking sound and a car engine switches gears and speeds up : <man talks& all>@<clicking sound& start>@<car engine switches gears& mid>@<speeds up& end>
+A person speaks and makes meow sounds : <person speaks& all>@<makes meow sounds& all>
+A motorboat engine running as wind blows into a microphone : <motorboat engine running& all>@<wind blows into microphone& all>
+A man talking as a stream of water trickles in the background : <man talking& all>@<stream of water trickles& all>
+A man speaking through a telephone speaker as another man is talking : <man speaking through a telephone speaker& all>@<another man talking& all>
+Rain falls and a man speaks with distant thunder : <man speaks& all>@<rain falls& all>@<distant thunder& mid>
+Several gunshots with a click and glass breaking : <gunshots& start>@<click& mid>@<glass breaking& end>
+A man speaking as a faucet pours water several times while water drains down a pipe : <man speaking& all>@<faucet pours water& start>@<water drains down a pipe& mid>
+Clip-clops gallop as the wind blows and thunder cracks : <clip-clops gallop& all>@<wind blows& all>@<thunder cracks& all>
+Short spray followed by louder longer spray : <short spray& start>@<louder longer spray& end>
+Church bells ringing : <church bells ringing& all>
+A duck quacking : <duck quacking& all>
+Dirt shuffling followed by gears cranking and a branch snapping then a man talking : <dirt shuffling& start>@<gears cranking& mid>@<branch snapping& mid>@<man talking& end>
+A baby cries as a woman speaks with other speech background noise : <woman speaks& all>@<baby cries& start>@<background noise& mid>
+A man speaking followed by another man speaking with some rustling : <man speaking& all>@<another man speaking& mid>@<rustling& end>
+A short hammering sound followed by two men speaking : <short hammering sound& start>@<two men speaking& all>
+Machinery banging and hissing : <machinery banging& all>@<hissing& all>
+A power tool drill operating continuously : <power tool drill operating continuously& all>
+A speedboat is racing across water with loud wind noise : <speedboat racing across water& all>@<loud wind noise& all>
+Loud snoring repeating : <loud snoring& all>
+Motorcycle starting then driving away : <motorcycle starting& start>@<motorcycle driving away& end>
+A heavy rain dies down and begins again : <heavy rain dies down& start>@<heavy rain begins again& end>
+An adult female speaks, and muted speech occurs briefly in the background : <adult female speaks& all>@<muted speech& mid>
+A duck quacks followed by a man talking while birds chirp in the distance : <duck quacks& start>@<man talking& mid>@<birds chirp in the distance& end>
+An emergency vehicle has the siren on : <emergency vehicle siren& all>
+Tribal drums playing as footsteps shuffle on wet dirt as frogs and crickets chirp in the background : <tribal drums playing& all>@<footsteps shuffle on wet dirt& all>@<frogs chirp& all>@<crickets chirp& all>
+Crumpling paper noise with female speech : <crumpling paper noise& all>@<female speech& all>
+Nature sounds with a frog croaking : <nature sounds& all>@<frog croaking& all>
+A woman speaks and continues to do so as a dog starts barking : <woman speaks& all>@<dog starts barking& mid>
+A vehicle engine revving then powering down : <vehicle engine revving& start>@<vehicle engine powering down& end>
+Humming and vibrating of a power tool with some high frequency squealing : <power tool humming and vibrating& all>@<high frequency squealing& mid>
+A man and woman laughing followed by a man shouting then a woman laughing as a child laughs : <man and woman laughing& all>@<man shouting& mid>@<woman laughing& mid>@<child laughs& end>
+A man speaking over an intercom as a helicopter engine runs followed by several gunshots firing : <man speaking over intercom& all>@<helicopter engine runs& all>@<gunshots firing& mid>
+A speedboat running as wind blows into a microphone : <speedboat running& all>@<wind blows into microphone& all>
+A crowd of people talking followed by a vehicle engine revving then tires skidding : <crowd of people talking& all>@<vehicle engine revving& mid>@<tires skidding& end>
+Vibrations and rattling with people speaking in the distance : <people speaking in the distance& all>@<vibrations and rattling& all>
+Vehicles passing by slowly together with distant murmuring : <vehicles passing by& all>@<distant murmuring& all>
+A dog barking and growling while plastic rattles and clanks against a hard surface : <dog barking& start>@<dog growling& mid>@<plastic rattles& all>@<clanks against hard surface& end>
+A mid-size motor vehicle engine is revving repeatedly, while people talk in the background : <engine revving& all>@<people talk& all>
+A sewing machine operating as a machine motor hisses loudly in the background : <sewing machine operating& all>@<machine motor hisses loudly& all>
+A vehicle driving by while revving as tires skid and squeal : <vehicle driving by& all>@<tires skid and squeal& mid>@<revving sound& end>
+A loud and forceful bang : <loud and forceful bang& all>
+A small motor buzzing followed by a man speaking as a metal door closes : <small motor buzzing& start>@<man speaking& mid>@<metal door closes& end>
+A bird is cooing and flapping its wings : <bird is cooing& all>@<bird is flapping its wings& all>
+A couple of men speaking as metal clanks and a power tool operates : <men speaking& all>@<metal clanks& mid>@<power tool operates& all>
+An aircraft engine is taking off : <aircraft engine taking off& all>
+People speaking with loud bangs followed by a slow motion rumble : <people speaking& all>@<loud bangs& mid>@<slow motion rumble& end>
+Music is playing with machine gun sounds : <music is playing& all>@<machine gun sounds& all>
+A female speaking with some rustling followed by another female speaking : <female speaking& start>@<rustling& mid>@<another female speaking& end>
+A man speaking as birds are chirping : <man speaking& all>@<birds chirping& all>
+Two men speaking with loud insects buzzing : <men speaking& all>@<insects buzzing& all>
+Loud buzzing followed by rustling and a toilet flushing : <loud buzzing& start>@<rustling& mid>@<toilet flushing& end>
+A man speaks as birds chirp and dogs bark : <man speaks& all>@<birds chirp& all>@<dogs bark& all>
+A paper is being crumpled : <paper is being crumpled& all>
+Water pouring down a drain with a series of metal clangs followed by a metal chain rattling : <water pouring down a drain& all>@<metal clangs& mid>@<metal chain rattling& end>
+A helicopter flying as wind blows into a microphone : <helicopter flying& all>@<wind blows into microphone& all>
+Humming of an engine followed by some honks of a horn : <engine humming& all>@<horn honks& mid>
+A car engine revs producing a room and a whine : <car engine revs& all>@<room sound& start>@<whine& mid>
+Many insects are buzzing and rustling is occurring, while an adult male speaks : <insects buzzing and rustling& all>@<adult male speaks& all>
+Electronic beeping as a man talks and water pouring in the background : <electronic beeping& all>@<man talks& all>@<water pouring& all>
+Continuous snoring of a person : <continuous snoring of a person& all>
+Footsteps shuffling on snow alongside a camera muffling while wind blows into a microphone : <footsteps shuffling on snow& all>@<camera muffling& all>@<wind blows into microphone& all>
+A man speaks as water flows from a faucet in quick bursts : <man speaks& all>@<water flows from faucet& all>
+Bells ring followed by humming and vibrations as a train passes while blowing a horn : <Bells ring& start>@<humming& mid>@<vibrations as train passes& mid>@<train blowing horn& end>
