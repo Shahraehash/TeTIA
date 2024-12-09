@@ -127,6 +127,6 @@ data:
 test_dataset:
   target: ldm.data.tsvdataset.TSVDatasetStruct
   params:
-    tsv_path: audiocaps_test_struct.tsv
+    tsv_path: data/test.tsv
     spec_crop_len: 624
 
