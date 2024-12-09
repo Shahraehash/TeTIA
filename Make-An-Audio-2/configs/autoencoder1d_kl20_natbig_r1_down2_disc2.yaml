@@ -60,7 +60,7 @@ data:
   params:
     batch_size: 4
     num_workers: 16
-    spec_dir_path: ldm/data/tsv_dirs/full_data/V1_new
+    spec_dir_path: data/main_spec_dir
     mel_num: 80
     spec_len: 624
     spec_crop_len: 624
