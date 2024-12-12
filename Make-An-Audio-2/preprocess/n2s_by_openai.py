@@ -14,17 +14,14 @@ import pandas as pd
 import requests
 import argparse
 import os
-openai_key = 'your openai key here'
+from openai import OpenAI
+openai_key = ''
 
 def get_struct(caption):
-    headers = {
-        'Content-Type': 'application/json',
-        'Authorization': f'{openai_key}',
-    }
-
-    json_data = {
-        'model': 'gpt-3.5-turbo',
-        'messages': [
+    client = OpenAI(api_key = openai_key)
+    response = client.chat.completions.create(
+        model = 'gpt-3.5-turbo',
+        messages = [
             {
                 'role': 'user',
                 'content':f'I want to know what sound might be in the given scene and you need to give me the results in the following format:\
@@ -40,11 +37,39 @@ def get_struct(caption):
                 Answer:',
             },
         ],
-        'temperature': 0.0,
-    }
+        max_tokens = 300, 
+        temperature = 0,
+    )
+    return response.choices[0].message.content
+    # headers = {
+    #     'Content-Type': 'application/json',
+    #     'Authorization': f'{openai_key}',
+    # }
 
-    response = requests.post('https://api.openai.com/v1/chat/completions', headers=headers, json=json_data)
-    return eval(response.content)['choices'][0]["message"]["content"]
+    # json_data = {
+    #     'model': 'gpt-3.5-turbo',
+    #     'messages': [
+    #         {
+    #             'role': 'user',
+    #             'content':f'I want to know what sound might be in the given scene and you need to give me the results in the following format:\
+    #             Question: A bird sings on the river in the morning, a cow passes by and scares away the bird.\
+    #             Answer: <running water& all>@<birds chriping& start>@<cow footsteps& mid>@<birds flying away& end>.\
+    #             Question: cellphone ringing a variety of tones followed by a loud explosion and fire crackling as a truck engine runs idle\
+    #             Answer: <variety cellphone ringing tones& start>@<loud explosion& end>@<fire crackling& end>@<truck engine idle& end>\
+    #             Question: Train passing followed by short honks three times \
+    #             Answer: <train passing& all>@<short honks three times& end>\
+    #             All indicates the sound exists in the whole scene \
+    #             Start, mid, end indicates the time period the sound appear.\
+    #             Question: {caption} \
+    #             Answer:',
+    #         },
+    #     ],
+    #     'temperature': 0.0,
+    # }
+
+    # response = requests.post('https://api.openai.com/v1/chat/completions', headers=headers, json=json_data)
+    # print(response)
+    # return eval(response.content)['choices'][0]["message"]["content"]
 
 def parse_args():
     parser = argparse.ArgumentParser()
