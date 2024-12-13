@@ -46,10 +46,11 @@ lightning:
         rescale: false
         melvmin: -5
         melvmax: 1.5
+        sample_rate: 16000
         vocoder_cfg:
           target: bigvgan.models.VocoderBigVGAN
           params:
-            ckpt_vocoder: vocoder/logs/bigvnat16k93.5w
+            ckpt_vocoder: useful_ckpts/bigvgan
   trainer:
     sync_batchnorm: false # not working with r1_regularization
     strategy: ddp

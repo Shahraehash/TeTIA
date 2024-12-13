@@ -9,7 +9,7 @@ def create_tsv_train(filename):
 	# Columns: Name, Dataset, Caption, Audio Path, Duration, mel_path
 
 	# Create a new dataframe
-	df = pd.DataFrame(columns=['name', 'dataset', 'caption', 'audio_path', 'duration', 'mel_path'])
+	df = pd.DataFrame(columns=['name', 'dataset', 'ori_cap', 'audio_path', 'duration', 'mel_path'])
 
 	# Iterate over the data
 	for i in range(len(data)):
@@ -26,13 +26,13 @@ def create_tsv_train(filename):
 		dataset = "audiocaps"
 		
 		# Append to the dataframe
-		df = df._append({'name': name, 'dataset': dataset, 'caption': caption, 'audio_path': audio_path, 'duration': duration, 'mel_path': mel_path}, ignore_index=True)
+		df = df._append({'name': name, 'dataset': dataset, 'ori_cap': caption, 'audio_path': audio_path, 'duration': duration, 'mel_path': mel_path}, ignore_index=True)
 
 	# Save the dataframe
 	df.to_csv('train.tsv', sep='\t', index=False)
 
 	#Add column named struct_cap to the dataframe, fill with data[Structured Caption]
-	df['struct_cap'] = data['Structured_Caption']
+	df['caption'] = data['Structured_Caption']
 
 	# Save the dataframe
 	df.to_csv('train_struct.tsv', sep='\t', index=False)
@@ -66,4 +66,4 @@ def create_tsv_test(filename):
 
 if __name__ == '__main__':
 	create_tsv_train('../../creating_structured_prompts/train_df.csv')
-	create_tsv_test('../../creating_structured_prompts/test_df.csv')
+	# create_tsv_test('../../creating_structured_prompts/test_df.csv')

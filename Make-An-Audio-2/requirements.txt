@@ -18,7 +18,7 @@ torchlibrosa
 transformers==4.26.0
 safetensors
 ftfy
-pytorch-lightning
+pytorch-lightning==1.7.0
 torchmetrics==0.11.1
 openai
 sentencepiece

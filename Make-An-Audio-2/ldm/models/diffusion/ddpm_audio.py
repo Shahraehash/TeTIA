@@ -493,8 +493,7 @@ class LatentDiffusion_audio(DDPM):
         mean_dims = list(range(1,len(target.shape)))
         loss_simple = self.get_loss(model_output, target, mean=False).mean(dim=mean_dims)
         loss_dict.update({f'{prefix}/loss_simple': loss_simple.mean()})
-
-        logvar_t = self.logvar[t].to(self.device)
+        logvar_t = self.logvar[t.to('cpu')].to(self.device)
         loss = loss_simple / torch.exp(logvar_t) + logvar_t
         # loss = loss_simple / torch.exp(self.logvar) + self.logvar
         if self.learn_logvar:

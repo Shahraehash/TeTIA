@@ -21,9 +21,11 @@ import ldm
 from pytorch_lightning import seed_everything
 from pytorch_lightning.trainer import Trainer
 from pytorch_lightning.callbacks import ModelCheckpoint, Callback,LearningRateMonitor
-from pytorch_lightning.utilities.distributed import rank_zero_only
+from pytorch_lightning.utilities.rank_zero import rank_zero_only
 from pytorch_lightning.utilities import rank_zero_info
 from ldm.util import instantiate_from_config
+from ldm.data.joinaudiodataset_anylen import JoinManifestSpecs
+from ldm.data.joinaudiodataset_struct_sample_anylen import JoinManifestSpecs as JoinManifestStructSpecs
 
 
 
@@ -227,7 +229,7 @@ class DataModuleFromConfig(pl.LightningDataModule):# batchloader outputshape sho
             return DataLoader(dataset, batch_sampler=batch_sampler,sampler=None,
                           num_workers=self.num_workers, collate_fn=dataset.collater,
                           worker_init_fn=init_fn)
-        elif isinstance(self.datasets["train"],ldm.data.joinaudiodataset_struct_sample_anylen.JoinManifestSpecs):
+        elif isinstance(self.datasets["train"],JoinManifestStructSpecs):
             from ldm.data.joinaudiodataset_struct_sample_anylen import DDPIndexBatchSampler
             dataset = self.datasets["train"]
             main_indices,other_indices = dataset.ordered_indices()
@@ -251,7 +253,7 @@ class DataModuleFromConfig(pl.LightningDataModule):# batchloader outputshape sho
             return DataLoader(dataset, batch_sampler=batch_sampler,sampler=None,
                           num_workers=self.num_workers, collate_fn=dataset.collater,
                           worker_init_fn=init_fn)
-        elif isinstance(self.datasets["validation"],ldm.data.joinaudiodataset_struct_sample_anylen.JoinManifestSpecs):
+        elif isinstance(self.datasets["validation"],JoinManifestStructSpecs):
             from ldm.data.joinaudiodataset_struct_sample_anylen import DDPIndexBatchSampler
             dataset = self.datasets["validation"]
             main_indices,other_indices = dataset.ordered_indices()
@@ -593,6 +595,7 @@ if __name__ == "__main__":
         nowname = now + name + opt.postfix
         logdir = os.path.join(opt.logdir, nowname)
 
+    # logdir = "logs/maa2-concatdit_extra"
     ckptdir = os.path.join(logdir, "checkpoints")
     cfgdir = os.path.join(logdir, "configs")
     seed_everything(opt.seed)
@@ -622,6 +625,7 @@ if __name__ == "__main__":
         lightning_config.trainer = trainer_config
 
         # model
+        print(config.model)
         model = instantiate_from_config(config.model)
 
         # trainer and callbacks

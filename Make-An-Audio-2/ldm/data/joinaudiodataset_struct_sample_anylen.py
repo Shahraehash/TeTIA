@@ -111,7 +111,7 @@ class JoinManifestSpecs(torch.utils.data.Dataset):
             data = self.df_other.iloc[idx-len(self.dataset)]
             p = np.random.uniform(0,1)
             if p > self.drop:
-                ori_caption = data['caption']
+                ori_caption = data['ori_cap']
                 struct_caption = f'<{ori_caption}& all>'
             else:
                 ori_caption = ""

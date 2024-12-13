@@ -242,6 +242,7 @@ class ConcatDiT2MLP(nn.Module):
         depth=28,
         num_heads=16,
         max_len = 1000,
+		*args, **kwargs
     ):
         super().__init__()
         self.in_channels = in_channels # vae dim
